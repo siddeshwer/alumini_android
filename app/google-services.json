@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "853080643481",
+    "project_id": "alumini-c5042",
+    "storage_bucket": "alumini-c5042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853080643481:android:9b4121685673afe95f2508",
+        "android_client_info": {
+          "package_name": "com.alumini.alumini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853080643481-h4lselu0m0k0okenvoghqbj6rnkjskp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alumini.alumini",
+            "certificate_hash": "8ae455ba42a540a5d3e4a3dae9370972e550ff0a"
+          }
+        },
+        {
+          "client_id": "853080643481-30tvo1b5octu4n72fr3ll79pp3q6sh3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPP-WfB7PWmYZikMkqHkSmzaxYty1LYw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853080643481-30tvo1b5octu4n72fr3ll79pp3q6sh3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
